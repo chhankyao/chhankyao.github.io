@@ -18,14 +18,6 @@ My research interests include weakly-supervised or unsupervised learning for vid
 
 **_If you are interested in research collaboration, feel free to drop me an email with your CV._**
 
-    
-### News
-{% for article in site.data.news limit:9 %}
-{{ article.date }} :
-<em>{{ article.headline }}</em>
-{% endfor %}
-<a href="{{ site.url }}{{ site.baseurl }}/allnews.html">see all news</a>
-
 </div>
 
     
@@ -45,6 +37,7 @@ My research interests include weakly-supervised or unsupervised learning for vid
 </div>
 </div>
 </div>
+
 
 
 <div class="col-sm-12">
