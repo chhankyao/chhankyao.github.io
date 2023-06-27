@@ -1,5 +1,5 @@
 ---
-title: "Chun-Han Yao - Home"
+title: "Chun-Han (Hank) Yao - Home"
 layout: gridlay
 excerpt: "Chun-Han Yao"
 sitemap: false
@@ -12,7 +12,7 @@ permalink: /
 
 <div class="col-sm-8">    
     
-I am a PhD student in the Vision and Learning Lab at UC Merced, supervised by professor [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/). During my PhD, I have collaborated with [Varun Jampani](https://varunjampani.github.io/), [Boqing Gong](http://boqinggong.info/) at Google, [Jimei Yang](https://jimeiyang.github.io/) at Adobe, and [Fang Chen](http://fangchen.org/) at ByteDance. Prior to that, I receied my MS in Computer Science from UC San Diego and BS in Electrical Engineering from National Taiwan University (NTU). 
+I am a PhD student in the Vision and Learning Lab at UC Merced, supervised by professor [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/). During my PhD, I have collaborated with [Varun Jampani](https://varunjampani.github.io/), [Boqing Gong](http://boqinggong.info/) at Google, [Jimei Yang](https://jimeiyang.github.io/) at Adobe, and [Chen Fang](http://fangchen.org/) at ByteDance. Prior to that, I receied my MS in Computer Science from UC San Diego and BS in Electrical Engineering from National Taiwan University (NTU). 
     
 My research interests include weakly-supervised or unsupervised learning for video and 3D computer vision. My past experience spans the fields of video temporal consistency, object detection, domain adaptation, federated learning, as well as monocular 3D reconstruction of rigid objects, articulated shapes, and human bodies.
 

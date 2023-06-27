@@ -1,7 +1,7 @@
 ---
 title: "Home"
 layout: gridlay
-excerpt: "Varun Jampani"
+excerpt: "Chun-Han (Hank) Yao"
 sitemap: false
 permalink: /allnews.html
 ---

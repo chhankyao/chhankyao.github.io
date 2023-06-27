@@ -1,7 +1,7 @@
 ---
-title: "Varun Jampani - Experience"
+title: "Chun-Han (Hank) Yao - Experience"
 layout: gridlay
-excerpt: "Varun Jampani: Experience"
+excerpt: "Chun-Han (Hank) Yao: Experience"
 sitemap: false
 permalink: /experience
 ---

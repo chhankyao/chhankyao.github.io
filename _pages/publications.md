@@ -1,7 +1,7 @@
 ---
-title: "Varun Jampani - Publications"
+title: "Chun-Han (Hank) Yao - Publications"
 layout: gridlay
-excerpt: "Varun Jampani -- Publications."
+excerpt: "Chun-Han (Hank) Yao -- Publications."
 sitemap: false
 permalink: /publications/
 ---
