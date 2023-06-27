@@ -81,7 +81,7 @@
     
 - title: Discovering 3D Parts from Image Collections
   authors: Chun-Han Yao, Wei-Chih Hung, Varun Jampani, Ming-Hsuan Yang
-  venue: International Conference on Computer Vision (ICCV) 2021
+  venue: International Conference on Computer Vision (ICCV), 2021
   number_link: 4
   link1:
     url: https://arxiv.org/pdf/2107.13629.pdf
@@ -95,4 +95,56 @@
   link4:
     url: https://github.com/chhankyao/lpd
     display: code (github)
+    
+    
+- title: Video Object Detection via Object-level Temporal Aggregation
+  authors: Chun-Han Yao, Chen Fang, Xiaohui Shen, Yangyue Wan, Ming-Hsuan Yang
+  venue: European Conference on Computer Vision (ECCV), 2020
+  number_link: 2
+  link1:
+    url: https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590154.pdf
+    display: paper
+  link2:
+    url: https://github.com/chhankyao/video_object_detection
+    display: code (github)
+  
+  
+- title: Progressive Domain Adaption for Object Detection
+  authors: Han-Kai Hsu, Chun-Han Yao, Yi-Hsuan Tsai, Wei-Chih Hung, Hung-Yu Tseng, Maneesh Singh, Ming-Hsuan Yang
+  venue: Winter Conference on Applications of Computer Vision (WACV), 2020
+  number_link: 2
+  link1:
+    url: https://arxiv.org/abs/1910.11319
+    display: paper
+  link2:
+    url: https://github.com/kevinhkhsu/DA_detection
+    display: code (github)
+    
+    
+- title: Occlusion-aware Video Temporal Consistency
+  authors: Chun-Han Yao, Chia-Yang Chang, Shao-Yi Chien
+  venue: ACM Multimedia (MM), 2017
+  number_link: 2
+  link1:
+    url: https://dl.acm.org/doi/pdf/10.1145/3123266.3123363
+    display: paper
+  link2:
+    url: https://github.com/chhankyao/video_temporal_consistency
+    display: code (github)
+    
+    
+- title: Example-based Video Color Transfer
+  authors: Chun-Han Yao, Chia-Yang Chang, Shao-Yi Chien
+  venue: IEEE International Conference on Multimedia and Expo (ICME), 2016
+  number_link: 2
+  link1:
+    url: https://ieeexplore.ieee.org/abstract/document/7552926
+    display: paper
+  link2:
+    url: https://github.com/chhankyao/video_color_transfer
+    display: code (github)
+    
+    
+    
+    
     

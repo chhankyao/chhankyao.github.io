@@ -21,7 +21,7 @@ My research interests include weakly-supervised or unsupervised learning for vid
 </div>
 
     
-<div class="col-sm-4" style="display:table-cell; vertical-align:middle; text-align:left">
+<div class="col-sm-4" style="display:table-cell; vertical-align:top; text-align:left">
 
   <ul style="overflow: hidden">
   <img src="{{ site.url }}{{ site.baseurl }}/images/profile_photo.jpg" class="img-responsive" width="100%" />
