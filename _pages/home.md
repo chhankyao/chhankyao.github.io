@@ -10,7 +10,7 @@ permalink: /
 
 <div class="row">
 
-<div class="col-sm-6">    
+<div class="col-sm-7">    
     
 I am a PhD student in the Vision and Learning Lab at UC Merced, supervised by professor [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/). During my PhD, I have collaborated with [Varun Jampani](https://varunjampani.github.io/), [Boqing Gong](http://boqinggong.info/) at Google, [Jimei Yang](https://jimeiyang.github.io/) at Adobe, and [Chen Fang](http://fangchen.org/) at ByteDance. Prior to that, I received my MS in Computer Science from UC San Diego and BS in Electrical Engineering from National Taiwan University (NTU). 
     
@@ -30,10 +30,8 @@ My research interests include weakly-supervised or unsupervised learning for vid
   <!-- <br clear="all" /> -->
 
   <A HREF="">cyao6 [at] ucmerced [dot] com</A> <br>
-  UC Merced <br>
-  5200 Lake Rd<br>
-  Merced, CA, USA.<br>
-
+  Click [here](https://github.com/chhankyao/papers/blob/main/cv_chunhan.pdf) for my CV.
+  
 </div>
 </div>
 </div>
