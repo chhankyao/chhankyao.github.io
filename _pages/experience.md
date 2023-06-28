@@ -69,7 +69,7 @@ permalink: /experience
     <ul>
     <li>Research Scientist Intern <em>(Jun. 2023 &ndash; Present)</em></li>
     <li>Captuing 3D Human Body from Monocular Inputs</li>
-    <li>Mentor: Tony Tung, Nikolaos Sarafianos</li>
+    <li>Mentors: Tony Tung, Nikolaos Sarafianos</li>
     </ul>
     </li>
     

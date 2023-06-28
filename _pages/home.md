@@ -10,7 +10,7 @@ permalink: /
 
 <div class="row">
 
-<div class="col-sm-7">    
+<div class="col-sm-7" style="text-align:justify">    
     
 I am a PhD student in the Vision and Learning Lab at UC Merced, supervised by professor [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/). During my PhD, I have collaborated with [Varun Jampani](https://varunjampani.github.io/), [Boqing Gong](http://boqinggong.info/) at Google, [Jimei Yang](https://jimeiyang.github.io/) at Adobe, and [Chen Fang](http://fangchen.org/) at ByteDance. Prior to that, I received my MS in Computer Science from UC San Diego and BS in Electrical Engineering from National Taiwan University (NTU). 
     
