@@ -1,6 +1,6 @@
 - title: ARTIC3D&#58; Learning Robust Articulated 3D Shapes from Noisy Web Image Collections
   authors: Chun-Han Yao, Amit Raj, Wei-Chih Hung, Yuanzhen Li, Michael Rubinstein, Ming-Hsuan Yang, Varun Jampani
-  venue: ArXiv 2023
+  venue: ArXiv, 2023
   number_link: 4
   link1:
     url: https://arxiv.org/abs/2306.04619
@@ -18,7 +18,7 @@
 
 - title: Hi-LASSIE&#58; High-Fidelity Articulated Shape and Skeleton Discovery from Sparse Image Ensemble
   authors: Chun-Han Yao, Wei-Chih Hung, Yuanzhen Li, Michael Rubinstein, Ming-Hsuan Yang, Varun Jampani
-  venue: Computer Vision and Pattern Recognition (CVPR) 2023
+  venue: Computer Vision and Pattern Recognition (CVPR), 2023
   number_link: 4
   link1:
     url: https://arxiv.org/abs/2212.11042
@@ -36,7 +36,7 @@
 
 - title: LASSIE&#58; Learning Articulated Shapes from Sparse Image Ensemble via 3D Part Discovery
   authors: Chun-Han Yao, Wei-Chih Hung, Yuanzhen Li, Michael Rubinstein, Ming-Hsuan Yang, Varun Jampani
-  venue: Neural Information Processing Systems (NeurIPS) 2022
+  venue: Neural Information Processing Systems (NeurIPS), 2022
   number_link: 4
   link1:
     url: https://arxiv.org/abs/2207.03434
@@ -54,7 +54,7 @@
 
 - title: Learning Visibility for Robust Dense Human Body Estimation
   authors: Chun-Han Yao, Jimei Yang, Duygu Ceylan, Yi Zhou, Yang Zhou Ming-Hsuan Yang
-  venue: European Conference on Computer Vision (ECCV) 2022
+  venue: European Conference on Computer Vision (ECCV), 2022
   number_link: 3
   link1:
     url: https://arxiv.org/abs/2208.10652
@@ -69,7 +69,7 @@
     
 - title: Federated Multi-Target Domain Adaptation
   authors: Chun-Han Yao, Boqing Gong, Yin Cui, Hang Qi, Yukun Zhu, Ming-Hsuan Yang
-  venue: Winter Conference on Applications of Computer Vision (WACV) 2022
+  venue: Winter Conference on Applications of Computer Vision (WACV), 2022
   number_link: 2
   link1:
     url: https://arxiv.org/abs/2108.07792
