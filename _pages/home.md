@@ -12,7 +12,7 @@ permalink: /
 
 <div class="col-sm-6">    
     
-I am a PhD student in the Vision and Learning Lab at UC Merced, supervised by professor [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/). During my PhD, I have collaborated with [Varun Jampani](https://varunjampani.github.io/), [Boqing Gong](http://boqinggong.info/) at Google, [Jimei Yang](https://jimeiyang.github.io/) at Adobe, and [Chen Fang](http://fangchen.org/) at ByteDance. Prior to that, I receied my MS in Computer Science from UC San Diego and BS in Electrical Engineering from National Taiwan University (NTU). 
+I am a PhD student in the Vision and Learning Lab at UC Merced, supervised by professor [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/). During my PhD, I have collaborated with [Varun Jampani](https://varunjampani.github.io/), [Boqing Gong](http://boqinggong.info/) at Google, [Jimei Yang](https://jimeiyang.github.io/) at Adobe, and [Chen Fang](http://fangchen.org/) at ByteDance. Prior to that, I received my MS in Computer Science from UC San Diego and BS in Electrical Engineering from National Taiwan University (NTU). 
     
 My research interests include weakly-supervised or unsupervised learning for video and 3D computer vision. My past experience spans the fields of video temporal consistency, object detection, domain adaptation, federated learning, as well as monocular 3D reconstruction of rigid objects, articulated shapes, and human bodies.
 
@@ -21,7 +21,7 @@ My research interests include weakly-supervised or unsupervised learning for vid
 </div>
 
     
-<div class="col-sm-6" style="display:table-cell; vertical-align:middle; text-align:left">
+<div class="col-sm-4" style="display:table-cell; vertical-align:middle; text-align:left">
 
   <ul style="overflow: hidden">
   <img src="{{ site.url }}{{ site.baseurl }}/images/profile_photo.jpg" class="img-responsive" width="100%" />
@@ -51,10 +51,6 @@ Check my <a href="https://scholar.google.com/citations?hl=en&user=866vORgAAAAJ">
 <div class="col-sm-11 clearfix">
  <div class="well">
  <pubtit>{{ publi.title }}</pubtit>
-
-<!--  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="200px" style="float: left" /> -->
-
-<!--  <p>{{ publi.description }}</p> -->
 
  <p><em>{{ publi.authors }}</em></p>
 
