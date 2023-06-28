@@ -30,7 +30,7 @@ My research interests include weakly-supervised or unsupervised learning for vid
   <!-- <br clear="all" /> -->
 
   <A HREF="">cyao6 [at] ucmerced [dot] com</A> <br>
-  Click [here](https://github.com/chhankyao/papers/blob/main/cv_chunhan.pdf) for my CV.
+  Click <a href="cv_chunhan.pdf"> here </a> for my CV.
   
 </div>
 </div>
