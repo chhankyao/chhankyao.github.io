@@ -1,6 +1,6 @@
 - title: ARTIC3D&#58; Learning Robust Articulated 3D Shapes from Noisy Web Image Collections
   authors: Chun-Han Yao, Amit Raj, Wei-Chih Hung, Yuanzhen Li, Michael Rubinstein, Ming-Hsuan Yang, Varun Jampani
-  venue: ArXiv, 2023
+  venue: Neural Information Processing Systems (NeurIPS), 2023
   number_link: 4
   link1:
     url: https://arxiv.org/abs/2306.04619
@@ -30,8 +30,8 @@
     url: https://www.youtube.com/watch?v=s9FWABEm0WU
     display: video
   link4:
-    url: 
-    display: code (soon)
+    url: https://github.com/google/hi-lassie
+    display: code (github)
 
 
 - title: LASSIE&#58; Learning Articulated Shapes from Sparse Image Ensemble via 3D Part Discovery
