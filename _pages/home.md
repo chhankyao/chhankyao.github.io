@@ -12,7 +12,7 @@ permalink: /
 
 <div class="col-sm-7" style="text-align:justify">    
     
-I am a PhD student in the Vision and Learning Lab at UC Merced, supervised by professor [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/). During my PhD, I have collaborated with [Varun Jampani](https://varunjampani.github.io/), [Boqing Gong](http://boqinggong.info/) at Google, [Jimei Yang](https://jimeiyang.github.io/) at Adobe, and [Chen Fang](http://fangchen.org/) at ByteDance. Prior to that, I received my MS in Computer Science from UC San Diego and BS in Electrical Engineering from National Taiwan University (NTU). 
+I am a Research Scientist at Stability AI, focusing on 3D/4D generation tasks. Prior to this, I was a PhD student in the Vision and Learning Lab at UC Merced, supervised by professor [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/). During my PhD, I was honored to work with [Tony Tung](https://sites.google.com/site/tony2ng/) and [Nikolaos Sarafianos](https://nsarafianos.github.io/) at Meta, [Varun Jampani](https://varunjampani.github.io/) and [Boqing Gong](http://boqinggong.info/) at Google, [Jimei Yang](https://jimeiyang.github.io/) at Adobe, and [Chen Fang](http://fangchen.org/) at ByteDance. Before my PhD, I received my MS in Computer Science from UC San Diego and BS in Electrical Engineering from National Taiwan University (NTU). 
     
 My research interests include weakly-supervised or unsupervised learning for video and 3D computer vision. My past experience spans the fields of video temporal consistency, object detection, domain adaptation, federated learning, as well as monocular 3D reconstruction of rigid objects, articulated shapes, and human bodies.
 
