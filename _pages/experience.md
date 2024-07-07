@@ -26,7 +26,7 @@ permalink: /experience
 
 <h3>Education</h3>
 
-<p><em>(Aug 2019 &ndash; Present)</em></p>
+<p><em>(Aug 2019 &ndash; Dec 2023)</em></p>
 
 <p><strong>University of California, Merced</strong>, CA, USA</p>
 
@@ -65,9 +65,17 @@ permalink: /experience
 <h4>Research</h4>
 
 <ul>
+    <li><strong>Stability AI, CA, USA</strong>
+    <ul>
+    <li>Research Scientist <em>(Jan. 2024 &ndash; Present)</em></li>
+    <li>3D/4D Generation</li>
+    <li>Manager: Varun Jampani</li>
+    </ul>
+    </li>
+    
     <li><strong>Reality Labs Research (Meta), Sausalito, CA, USA</strong>
     <ul>
-    <li>Research Scientist Intern <em>(Jun. 2023 &ndash; Present)</em></li>
+    <li>Research Scientist Intern <em>(Jun. 2023 &ndash; Oct 2023)</em></li>
     <li>Captuing 3D Human Body from Monocular Inputs</li>
     <li>Mentors: Tony Tung, Nikolaos Sarafianos</li>
     </ul>
