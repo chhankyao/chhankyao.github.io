@@ -1,3 +1,24 @@
+- title: SV3D&#58; Novel Multi-view Synthesis and 3D Generation from a Single Image using Latent Video Diffusion
+  authors: Vikram Voleti^*, Chun-Han Yao^*, Mark Boss^*, Adam Letts, David Pankratz, Dmitrii Tochilkin, Christian Laforte, Robin Rombach, Varun Jampani^*
+  venue: European Conference on Computer Vision (ECCV), 2024
+  number_link: 4
+  link1:
+    url: https://arxiv.org/abs/2306.04619
+    display: paper
+  link2:
+    url: https://sv3d.github.io/
+    display: project page
+  link3:
+    url: https://www.youtube.com/watch?v=Zqw4-1LcfWg
+    display: video
+  link4:
+    url: https://huggingface.co/stabilityai/sv3d
+    display: model
+  link5:
+    url: https://github.com/Stability-AI/generative-models
+    display: code (github)
+    
+
 - title: ARTIC3D&#58; Learning Robust Articulated 3D Shapes from Noisy Web Image Collections
   authors: Chun-Han Yao, Amit Raj, Wei-Chih Hung, Yuanzhen Li, Michael Rubinstein, Ming-Hsuan Yang, Varun Jampani
   venue: Neural Information Processing Systems (NeurIPS), 2023
@@ -12,8 +33,8 @@
     url: https://www.youtube.com/watch?v=r1uKgqWlfyY
     display: video
   link4:
-    url: 
-    display: code (soon)
+    url: https://github.com/chhankyao/artic3d_recon
+    display: code (github)
 
 
 - title: Hi-LASSIE&#58; High-Fidelity Articulated Shape and Skeleton Discovery from Sparse Image Ensemble
