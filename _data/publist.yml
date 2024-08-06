@@ -1,3 +1,24 @@
+- title: SV4D&#58; Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency
+  authors: Yiming Xie\*, Chun-Han Yao\*, Vikram Voleti, Huaizu Jiang, Varun Jampani (\* equal contribution)
+  venue: arXiv preprint, 2024
+  number_link: 5
+  link1:
+    url: https://arxiv.org/abs/2407.17470
+    display: paper
+  link2:
+    url: https://sv4d.github.io/
+    display: project page
+  link3:
+    url: https://www.youtube.com/watch?v=RBP8vdAWTgk&t=2s
+    display: video
+  link4:
+    url: https://huggingface.co/stabilityai/sv4d
+    display: model
+  link5:
+    url: https://github.com/Stability-AI/generative-models
+    display: code (github)
+    
+
 - title: SV3D&#58; Novel Multi-view Synthesis and 3D Generation from a Single Image using Latent Video Diffusion
   authors: Vikram Voleti\*, Chun-Han Yao\*, Mark Boss\*, Adam Letts, David Pankratz, Dmitrii Tochilkin, Christian Laforte, Robin Rombach, Varun Jampani\* (\* core contribution)
   venue: European Conference on Computer Vision (ECCV), 2024
