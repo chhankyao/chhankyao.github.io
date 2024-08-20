@@ -38,6 +38,18 @@
   link5:
     url: https://github.com/Stability-AI/generative-models
     display: code (github)
+
+
+- title: ANIM&#58; Accurate Neural Implicit Model for Human Reconstruction from a Single RGB-D Image
+  authors: Marco Pesavento, Yuanlu Xu, Nikolaos Sarafianos, Robert Maier, Ziyan Wang, Chun-Han Yao, Marco Volino, Edmond Boyer, Adrian Hilton, Tony Tung
+  venue: Computer Vision and Pattern Recognition (CVPR), 2023
+  number_link: 2
+  link1:
+    url: https://openaccess.thecvf.com/content/CVPR2024/papers/Pesavento_ANIM_Accurate_Neural_Implicit_Model_for_Human_Reconstruction_from_a_CVPR_2024_paper.pdf
+    display: paper
+  link2:
+    url: https://marcopesavento.github.io/ANIM/
+    display: project page
     
 
 - title: ARTIC3D&#58; Learning Robust Articulated 3D Shapes from Noisy Web Image Collections
