@@ -29,7 +29,7 @@ My research interests include weakly-supervised or unsupervised learning for vid
 
   <!-- <br clear="all" /> -->
 
-  <A HREF="">cyao6 [at] ucmerced [dot] com</A> <br>
+  <A HREF="">chunhanyao@gmail.com</A> <br>
   Click <a href="../cv_chunhan.pdf"> here </a> for my CV.
   
 </div>
