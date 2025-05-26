@@ -1,6 +1,60 @@
+- title: SV4D 2.0&#58; Enhancing Spatio-Temporal Consistency in Multi-View Video Diffusion for High-Quality 4D Generation
+  authors: Chun-Han Yao\*, Yiming Xie\*, Vikram Voleti, Huaizu Jiang, Varun Jampani (\* equal contribution)
+  venue: arXiv preprint, 2025
+  number_link: 5
+  link1:
+    url: https://arxiv.org/abs/2503.16396
+    display: paper
+  link2:
+    url: https://sv4d20.github.io/
+    display: project page
+  link3:
+    url: https://www.youtube.com/watch?v=dtqj-s50ynU
+    display: video
+  link4:
+    url: https://huggingface.co/stabilityai/sv4d2.0
+    display: model
+  link5:
+    url: https://github.com/Stability-AI/generative-models
+    display: code
+
+
+- title: STABLE VIRTUAL CAMERA&#58; Generative View Synthesis with Diffusion Models
+  authors: Jensen Jinghao Zhou\*, Hang Gao\*, Vikram Voleti, Aaryaman Vasishta, Chun-Han Yao, Mark Boss, Philip Torr, Christian Rupprecht, Varun Jampani (\* equal contribution)
+  venue: arXiv preprint, 2025
+  number_link: 6
+  link1:
+    url: https://arxiv.org/abs/2503.14489
+    display: paper
+  link2:
+    url: https://stable-virtual-camera.github.io/
+    display: project page
+  link3:
+    url: https://www.youtube.com/channel/UCLLlVDcS7nNenT_zzO3OPxQ
+    display: videos
+  link4:
+    url: https://huggingface.co/stabilityai/stable-virtual-camera
+    display: model
+  link5:
+    url: https://github.com/Stability-AI/stable-virtual-camera
+    display: code
+  link6:
+    url: https://huggingface.co/spaces/stabilityai/stable-virtual-camera
+    display: demo
+
+
+- title: FaceCraft4D&#58; Animated 3D Facial Avatar Generation from a Single Image
+  authors: Fei Yin, Mallikarjun B R, Chun-Han Yao, Rafal Mantiuk, Varun Jampani
+  venue: arXiv preprint, 2025
+  number_link: 1
+  link1:
+    url: https://arxiv.org/abs/2504.15179
+    display: paper
+    
+
 - title: SV4D&#58; Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency
   authors: Yiming Xie\*, Chun-Han Yao\*, Vikram Voleti, Huaizu Jiang, Varun Jampani (\* equal contribution)
-  venue: arXiv preprint, 2024
+  venue: International Conference on Learning Representations (ICLR), 2025
   number_link: 5
   link1:
     url: https://arxiv.org/abs/2407.17470
@@ -9,14 +63,14 @@
     url: https://sv4d.github.io/
     display: project page
   link3:
-    url: https://www.youtube.com/watch?v=RBP8vdAWTgk&t=2s
+    url: https://www.youtube.com/watch?v=RBP8vdAWTgk
     display: video
   link4:
     url: https://huggingface.co/stabilityai/sv4d
     display: model
   link5:
     url: https://github.com/Stability-AI/generative-models
-    display: code (github)
+    display: code
     
 
 - title: SV3D&#58; Novel Multi-view Synthesis and 3D Generation from a Single Image using Latent Video Diffusion
@@ -37,7 +91,7 @@
     display: model
   link5:
     url: https://github.com/Stability-AI/generative-models
-    display: code (github)
+    display: code
 
 
 - title: ANIM&#58; Accurate Neural Implicit Model for Human Reconstruction from a Single RGB-D Image
@@ -67,7 +121,7 @@
     display: video
   link4:
     url: https://github.com/chhankyao/artic3d_recon
-    display: code (github)
+    display: code
 
 
 - title: Hi-LASSIE&#58; High-Fidelity Articulated Shape and Skeleton Discovery from Sparse Image Ensemble
@@ -85,7 +139,7 @@
     display: video
   link4:
     url: https://github.com/google/hi-lassie
-    display: code (github)
+    display: code
 
 
 - title: LASSIE&#58; Learning Articulated Shapes from Sparse Image Ensemble via 3D Part Discovery
@@ -103,7 +157,7 @@
     display: video
   link4:
     url: https://github.com/google/lassie
-    display: code (github)
+    display: code
 
 
 - title: Learning Visibility for Robust Dense Human Body Estimation
@@ -118,19 +172,16 @@
     display: project page
   link3:
     url: https://github.com/chhankyao/visdb
-    display: code (github)
+    display: code
     
     
 - title: Federated Multi-Target Domain Adaptation
   authors: Chun-Han Yao, Boqing Gong, Yin Cui, Hang Qi, Yukun Zhu, Ming-Hsuan Yang
   venue: Winter Conference on Applications of Computer Vision (WACV), 2022
-  number_link: 2
+  number_link: 1
   link1:
     url: https://arxiv.org/abs/2108.07792
     display: paper
-  link2:
-    url: 
-    display: code (soon)
     
     
 - title: Discovering 3D Parts from Image Collections
@@ -148,7 +199,7 @@
     display: video
   link4:
     url: https://github.com/chhankyao/lpd
-    display: code (github)
+    display: code
     
     
 - title: Video Object Detection via Object-level Temporal Aggregation
@@ -160,7 +211,7 @@
     display: paper
   link2:
     url: https://github.com/chhankyao/video_object_detection
-    display: code (github)
+    display: code
   
   
 - title: Progressive Domain Adaption for Object Detection
@@ -172,7 +223,7 @@
     display: paper
   link2:
     url: https://github.com/kevinhkhsu/DA_detection
-    display: code (github)
+    display: code
     
     
 - title: Occlusion-aware Video Temporal Consistency
@@ -184,7 +235,7 @@
     display: paper
   link2:
     url: https://github.com/chhankyao/video_temporal_consistency
-    display: code (github)
+    display: code
     
     
 - title: Example-based Video Color Transfer
@@ -196,7 +247,7 @@
     display: paper
   link2:
     url: https://github.com/chhankyao/video_color_transfer
-    display: code (github)
+    display: code
     
     
     
