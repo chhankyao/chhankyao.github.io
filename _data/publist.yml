@@ -1,6 +1,21 @@
+- title: Stable Part Diffusion 4D&#58; Multi-View RGB and Kinematic Parts Video Generation
+  authors: Hao Zhang, Chun-Han Yao, Simon Donné, Narendra Ahuja, Varun Jampani
+  venue: Neural Information Processing Systems (NeurIPS), 2025
+  number_link: 3
+  link1:
+    url: https://arxiv.org/abs/2509.10687
+    display: paper
+  link2:
+    url: https://stablepartdiffusion4d.github.io/
+    display: project page
+  link3:
+    url: https://www.youtube.com/watch?v=FXEFeh8tf0k
+    display: video
+
+
 - title: SV4D 2.0&#58; Enhancing Spatio-Temporal Consistency in Multi-View Video Diffusion for High-Quality 4D Generation
   authors: Chun-Han Yao\*, Yiming Xie\*, Vikram Voleti, Huaizu Jiang, Varun Jampani (\* equal contribution)
-  venue: arXiv preprint, 2025
+  venue: International Conference on Computer Vision (ICCV), 2025
   number_link: 5
   link1:
     url: https://arxiv.org/abs/2503.16396
@@ -21,7 +36,7 @@
 
 - title: STABLE VIRTUAL CAMERA&#58; Generative View Synthesis with Diffusion Models
   authors: Jensen Jinghao Zhou\*, Hang Gao\*, Vikram Voleti, Aaryaman Vasishta, Chun-Han Yao, Mark Boss, Philip Torr, Christian Rupprecht, Varun Jampani (\* equal contribution)
-  venue: arXiv preprint, 2025
+  venue: International Conference on Computer Vision (ICCV), 2025
   number_link: 6
   link1:
     url: https://arxiv.org/abs/2503.14489
@@ -45,11 +60,17 @@
 
 - title: FaceCraft4D&#58; Animated 3D Facial Avatar Generation from a Single Image
   authors: Fei Yin, Mallikarjun B R, Chun-Han Yao, Rafal Mantiuk, Varun Jampani
-  venue: arXiv preprint, 2025
+  venue: International Conference on Computer Vision (ICCV), 2025
   number_link: 1
   link1:
     url: https://arxiv.org/abs/2504.15179
     display: paper
+
+
+- title: SViM3D&#58; Stable Video Material Diffusion for Single Image 3D Generation
+  authors: Andreas Engelhardt, Mark Boss, Vikram Voleti, Chun-Han Yao, Hendrik Lensch, Varun Jampani 
+  venue: International Conference on Computer Vision (ICCV), 2025
+  number_link: 0
     
 
 - title: SV4D&#58; Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency
