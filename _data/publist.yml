@@ -1,7 +1,7 @@
 - title: Stable Part Diffusion 4D&#58; Multi-View RGB and Kinematic Parts Video Generation
   authors: Hao Zhang, Chun-Han Yao, Simon Donné, Narendra Ahuja, Varun Jampani
   venue: Neural Information Processing Systems (NeurIPS), 2025
-  number_link: 3
+  number_link: 5
   link1:
     url: https://arxiv.org/abs/2509.10687
     display: paper
@@ -11,6 +11,12 @@
   link3:
     url: https://www.youtube.com/watch?v=FXEFeh8tf0k
     display: video
+  link4:
+    url: https://huggingface.co/stabilityai/sp4d
+    display: model
+  link5:
+    url: https://github.com/Stability-AI/generative-models/tree/sp4d
+    display: code
 
 
 - title: SV4D 2.0&#58; Enhancing Spatio-Temporal Consistency in Multi-View Video Diffusion for High-Quality 4D Generation
@@ -61,16 +67,28 @@
 - title: FaceCraft4D&#58; Animated 3D Facial Avatar Generation from a Single Image
   authors: Fei Yin, Mallikarjun B R, Chun-Han Yao, Rafal Mantiuk, Varun Jampani
   venue: International Conference on Computer Vision (ICCV), 2025
-  number_link: 1
+  number_link: 2
   link1:
     url: https://arxiv.org/abs/2504.15179
     display: paper
+  link2:
+    url: https://www.cl.cam.ac.uk/~fy277/webpage/
+    display: project page
 
 
 - title: SViM3D&#58; Stable Video Material Diffusion for Single Image 3D Generation
   authors: Andreas Engelhardt, Mark Boss, Vikram Voleti, Chun-Han Yao, Hendrik Lensch, Varun Jampani 
   venue: International Conference on Computer Vision (ICCV), 2025
-  number_link: 0
+  number_link: 3
+  link1:
+    url: https://arxiv.org/abs/2510.08271
+    display: paper
+  link2:
+    url: https://svim3d.aengelhardt.com/
+    display: project page
+  link3:
+    url: https://www.youtube.com/watch?v=r9XeDUGHZJ0
+    display: video
     
 
 - title: SV4D&#58; Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency
