@@ -65,9 +65,17 @@ permalink: /experience
 <h4>Research</h4>
 
 <ul>
+    <li><strong>Waymo, Mountain View, USA</strong>
+    <ul>
+    <li>Senior Research Scientist <em>(Feb. 2026 &ndash; Present)</em></li>
+    <li>World Modeling</li>
+    <li>Manager: Chiyu Max Jiang</li>
+    </ul>
+    </li>
+    
     <li><strong>Stability AI, CA, USA</strong>
     <ul>
-    <li>Research Scientist <em>(Jan. 2024 &ndash; Present)</em></li>
+    <li>Research Scientist <em>(Jan. 2024 &ndash; Jan. 2026)</em></li>
     <li>3D/4D Generation</li>
     <li>Manager: Varun Jampani</li>
     </ul>
