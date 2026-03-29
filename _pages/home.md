@@ -12,7 +12,7 @@ permalink: /
 
 <div class="col-sm-7" style="text-align:justify">    
     
-I am a Senior Research Scientist at Waymo focusing on World Modeling. Prior to this, I worked on Video/3D/4D Generation as a Researcher at Stability AI. I received my PhD in Computer Science and Electrical Engineering from UC Merced, supervised by professor [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/). During my PhD, I was honored to work with [Tony Tung](https://sites.google.com/site/tony2ng/) and [Nikolaos Sarafianos](https://nsarafianos.github.io/) at Meta, [Varun Jampani](https://varunjampani.github.io/) and [Boqing Gong](http://boqinggong.info/) at Google, [Jimei Yang](https://jimeiyang.github.io/) at Adobe, and [Chen Fang](http://fangchen.org/) at ByteDance. Before my PhD, I received my MS in Computer Science from UC San Diego and BS in Electrical Engineering from National Taiwan University (NTU). 
+I am a Senior Research Scientist at Waymo, focusing on World Modeling for autonomous vehicles. Prior to this, I worked on Video/3D/4D Generation as a Researcher at Stability AI. I received my PhD in Computer Science and Electrical Engineering from UC Merced, supervised by professor [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/). During my PhD, I was honored to work with [Tony Tung](https://sites.google.com/site/tony2ng/) and [Nikolaos Sarafianos](https://nsarafianos.github.io/) at Meta, [Varun Jampani](https://varunjampani.github.io/) and [Boqing Gong](http://boqinggong.info/) at Google, [Jimei Yang](https://jimeiyang.github.io/) at Adobe, and [Chen Fang](http://fangchen.org/) at ByteDance. Before my PhD, I received my MS in Computer Science from UC San Diego and BS in Electrical Engineering from National Taiwan University (NTU). 
     
 My research interests include weakly-supervised or unsupervised learning for video, 3D, and 4D generation. My past experience spans the fields of video temporal consistency, object detection, domain adaptation, federated learning, as well as monocular 3D reconstruction of rigid objects, articulated shapes, and human bodies.
 
@@ -30,7 +30,7 @@ My research interests include weakly-supervised or unsupervised learning for vid
   <!-- <br clear="all" /> -->
 
   <A HREF="">chunhanyao@gmail.com</A> <br>
-  Click <a href="../cv_chunhan.pdf"> here </a> for my CV.
+  Click <a href="../CV_Chun_Han_Yao.pdf"> here </a> for my CV.
   
 </div>
 </div>
